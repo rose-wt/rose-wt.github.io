@@ -8,10 +8,14 @@ Description of Repository: Will be used to hold assignments.
 
 ## My Interest 
 
-<p> I am interested in getting a masters degree (and eventually a phD) in Artificial Intelligence. <br>
-My hobbies include playing the piano, oil painting, and running. <br>
-For my hobbies, I am particularly inspired by the works of classical composers and painters. <br>
-My favorite composer is Frederic Chopin (Ballade No. 1 in G minor is an **exceptional** auditory adventure that everyone should experience). <br>
+<p> I am interested in getting a masters degree (and eventually a phD) in Artificial Intelligence. 
+
+My hobbies include playing the piano, oil painting, and running.
+
+For my hobbies, I am particularly inspired by the works of classical composers and painters.
+
+My favorite composer is Frederic Chopin. Ballade No. 1 in G minor is an **exceptional** auditory adventure that everyone should experience.
+
 My favorite painter is Caravaggio - not only is he an amazing painter, but he is a fascinating historical figure. </p>
 
 ## Websites I Recommend 
