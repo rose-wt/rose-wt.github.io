@@ -20,5 +20,5 @@ My favorite painter is Caravaggio - not only is he an amazing painter, but he is
 
 ## Websites I Recommend 
 
-- [Reddit] (https://www.reddit.com) - Recommend because it is a great online community and dicussion board. 
-- [IMSLP] (https://imslp.org/wiki/Main_Page) - Recommend for muscians looking for free, public domain music (helps saves money on practice books). 
+- [Reddit](https://www.reddit.com) - Recommend because it is a great online community and dicussion board. 
+- [IMSLP](https://imslp.org/wiki/Main_Page) - Recommend for muscians looking for free, public domain music (helps saves money on practice books). 
