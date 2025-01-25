@@ -6,10 +6,10 @@ erDiagram
         string Name
         string Email
     }
-    PRODUCT ||--o{ SALE : becomes
+    PRODUCT |{--o{ SALE : becomes
     PRODUCT {
         string ProductID
     }
-    SALE ||--|{ INVENTORY : leaves
-    INVENTORY ||--|{ CUSTOMER : "goes to"
+    SALE |{--|{ INVENTORY : leaves
+    INVENTORY |{--|| CUSTOMER : "goes to"
 ```
