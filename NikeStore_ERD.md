@@ -1,7 +1,6 @@
 ```mermaid
 erDiagram
-    Customer ||--|{ Product : chooses
+    Customer ||--|{ PRODUCT : chooses
     }
-    Product 
-
+    
 ```
