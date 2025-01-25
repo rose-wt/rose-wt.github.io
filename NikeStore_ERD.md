@@ -10,8 +10,8 @@ erDiagram
     PRODUCT {
         string ProductID
     }
-    SALE ||--|{ INVENTORY : alerts
+    SALE ||--|{ INVENTORY : "takes multiple"
     INVENTORY |{--|| CUSTOMER : "goes to"
 ```
 
-<p> My Paragraph <p>
+<p>One customer (PK) chooses one or more products. The product (PK) becomes one sale (PK). This one sale (PK) takes multiple inventory. The multiple inventory then goes to the one cusotmer.<p>
