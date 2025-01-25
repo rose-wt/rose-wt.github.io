@@ -10,6 +10,6 @@ erDiagram
     PRODUCT {
         string ProductID
     }
-    SALE |{--|{ INVENTORY : leaves
+    SALE ||--|{ INVENTORY : alerts
     INVENTORY |{--|| CUSTOMER : "goes to"
 ```
