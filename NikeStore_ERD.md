@@ -6,7 +6,7 @@ erDiagram
         string Name
         string Email
     }
-    PRODUCT {
+    PRODUCT ||--|{ INVENTORY {
         string ProductID
     }
     INVENTORY {
