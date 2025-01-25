@@ -6,14 +6,9 @@ erDiagram
         Email
     }
     PRODUCT {
-
     }
-    INVENTORY
-    {
-
+    INVENTORY {
     }
     SALE {
-
     }
-    
 ```
