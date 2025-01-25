@@ -8,10 +8,4 @@ erDiagram
     PRODUCT {
         int Product ID
     }
-    INVENTORY {
-
-    }
-    SALE {
-
-    }
 ```
