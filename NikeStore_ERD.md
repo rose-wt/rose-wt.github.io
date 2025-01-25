@@ -1,6 +1,6 @@
 ```mermaid
 erDiagram
-   CUSTOMER ||--o{ PRODUCT : chooses
+   CUSTOMER ||--|{ PRODUCT : chooses
     CUSTOMER {
         string Address
         string Name
@@ -9,6 +9,7 @@ erDiagram
     PRODUCT {
         string ProductID
     }
+    PRODUCT |{ INVENTORY
     INVENTORY {
 
     }
