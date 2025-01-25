@@ -9,7 +9,7 @@ erDiagram
     PRODUCT {
         string ProductID
     }
-    PRODUCT |{ INVENTORY
+    PRODUCT ||--|{ INVENTORY
     INVENTORY {
 
     }
