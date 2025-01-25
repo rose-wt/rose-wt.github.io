@@ -1,14 +1,17 @@
 ```mermaid
 erDiagram
     CUSTOMER {
-        Address
-        Name
-        Email
+        string Address
+        string Name
+        string Email
     }
     PRODUCT {
+
     }
     INVENTORY {
+
     }
     SALE {
+
     }
 ```
