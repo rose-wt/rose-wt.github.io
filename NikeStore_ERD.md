@@ -13,3 +13,5 @@ erDiagram
     SALE ||--|{ INVENTORY : alerts
     INVENTORY |{--|| CUSTOMER : "goes to"
 ```
+
+<p> My Paragraph <p>
