@@ -1,6 +1,19 @@
 ```mermaid
 erDiagram
-    Customer ||--|{ PRODUCT : chooses
+    CUSTOMER {
+        Address
+        Name
+        Email
+    }
+    PRODUCT {
+
+    }
+    INVENTORY
+    {
+
+    }
+    SALE {
+
     }
     
 ```
