@@ -6,7 +6,7 @@ erDiagram
         string Email
     }
     PRODUCT {
-        string Product ID
+        int Product Identifier
     }
     INVENTORY {
 
