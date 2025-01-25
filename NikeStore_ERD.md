@@ -1,6 +1,5 @@
 ```mermaid
 erDiagram
-    CUSTOMER ||--o{ ORDER : places
     CUSTOMER {
         string Address
         string Name
