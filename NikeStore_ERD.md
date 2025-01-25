@@ -6,7 +6,7 @@ erDiagram
         string Name
         string Email
     }
-    PRODUCT |{--o{ SALE : becomes
+    PRODUCT |{--|| SALE : becomes
     PRODUCT {
         string ProductID
     }
